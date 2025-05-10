@@ -2,7 +2,11 @@
 
 Here are some of my favorite and most insightful data analysis projects. Each combines real-world datasets with storytelling, visualization, and insights using modern data tools.
 
----
+def extract_root_cause(row):
+    combined_text = f"{row['Complaint']} {row['Cause']} {row['Correction']}".lower()
+    matches = [kw for kw, kw_lower in zip(keywords, keywords_lower) if kw_lower in combined_text]
+    return ', '.join(matches) if matches else 'Unknown'
+
 
 ### 🎬 Netflix Viewing Patterns Analysis
 **Technologies:** PowerBI, DAX, Python, Pandas, Matplotlib, Seaborn
