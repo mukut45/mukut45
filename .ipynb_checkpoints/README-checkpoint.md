@@ -4,12 +4,9 @@ Here are some of my favorite and most insightful data analysis projects. Each co
 
 ## ⚙️ Tools & Technologies Used
 
----
-
 ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=flat)
 ![SQL](https://img.shields.io/badge/-SQL-4479A1?logo=postgresql&logoColor=white&style=flat)
 ![Power BI](https://img.shields.io/badge/-Power%20BI-F2C811?logo=power-bi&logoColor=white&style=flat)
-
 ![Pandas](https://img.shields.io/badge/-Pandas-150458?logo=pandas&logoColor=white&style=flat)
 ![NumPy](https://img.shields.io/badge/-NumPy-013243?logo=numpy&logoColor=white&style=flat)
 ![Matplotlib](https://img.shields.io/badge/-Matplotlib-11557C?logo=plotly&logoColor=white&style=flat)
@@ -17,13 +14,10 @@ Here are some of my favorite and most insightful data analysis projects. Each co
 ![Plotly](https://img.shields.io/badge/-Plotly-3F4F75?logo=plotly&logoColor=white&style=flat)
 ![mplfinance](https://img.shields.io/badge/-mplfinance-8142F5?style=flat&logo=chartdotjs&logoColor=white)
 ![ta](https://img.shields.io/badge/-ta%20(lib)-5A5A5A?style=flat&logo=python&logoColor=white)
-
 ![Jupyter Notebook](https://img.shields.io/badge/-Jupyter-DA5B0B?logo=jupyter&logoColor=white&style=flat)
 ![Markdown](https://img.shields.io/badge/-Markdown-000000?logo=markdown&logoColor=white&style=flat)
-
 ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=flat)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white&style=flat)
-
 ![NLP](https://img.shields.io/badge/-NLP-009688?style=flat&logo=read-the-docs&logoColor=white)
 
 ---
